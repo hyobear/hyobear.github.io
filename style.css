@@ -2,6 +2,49 @@ body {
 	background-color: black;
 }
 
-h1, p {
+h1 {
 	color: white;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	text-align: center;
+}
+
+a {
+	text-decoration: none
+}
+
+a:link {
+	color: #fec4ff;
+}
+
+a:visited {
+	color: #fec4ff;
+}
+
+a:hover {
+	color: #99ffef;
+}
+
+.nav {
+	
+}
+
+.body_home {
+	background: url("home_bg_dim.png") no-repeat center fixed;
+	background-size: cover;
+}
+
+.img_modgame {
+	display: block;
+	margin: auto;
+}
+
+.p_modtitle {
+	text-decoration: overline;
 }
