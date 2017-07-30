@@ -20,6 +20,12 @@ p {
 	text-align: center;
 }
 
+.third {
+	width:33%;
+	float:left;
+	text-align: center;
+}
+
 a {
 	text-decoration: none
 }
