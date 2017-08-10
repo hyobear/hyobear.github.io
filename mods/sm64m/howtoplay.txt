@@ -1,0 +1,28 @@
+INITIAL SETUP
+1)	Download Project64 1.6:
+	https://drive.google.com/file/d/0BxByNpLjsMerLWJtc2FyWnVWdms/view?usp=sharing
+2)	Download Super Mario 64 Maker:
+	http://www.mediafire.com/file/rhf2zh4lea49clp/SM64+Maker+1.3.z64
+3)	Setup Project64
+4)	Launch Project64
+5)	Load up the Super Mario 64 Maker rom.
+6)	Once it's done loading (the status message on the bottom left will say 100%), IMMEDIATELY go to Options > Settings > Options tab > Uncheck "Hide Advanced Settings" box. 
+	If Project64 crashes, boot it up again and repeat steps 5-6.
+7)	Exit out of the Settings menu, and then go back.
+8)	After opening the Settings menu again, go to the Rom Settings Tab.
+	If Project64 crashes, boot it up again and repeat steps 5-8.
+9)	Set the Memory Size to 8 MB.
+10)	Set the Counter Factor to 1.
+11) Load the rom again. 
+
+Now you're ready to play some levels!
+
+HOW TO PLAY LEVELS
+1)	Download the levels you wanna play. Put them in a place you'll remember. DO NOT UNZIP THEM.
+2)	Boot up the rom if you haven't already.
+3)	Once it's 100% loaded, go to System > Load.
+4)	Navigate to the folder where you stored your levels, and select the one you'd like to play.
+5)	Load it and you should be ready to play.
+
+HOW TO MAKE LEVELS
+Watch this video: https://www.youtube.com/watch?v=XNZk4ggJkcc
