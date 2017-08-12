@@ -1,0 +1,39 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Cabin', sans-serif;
+}
+
+a {
+	text-decoration: none
+}
+
+a:link {
+	color: #fec4ff;
+}
+
+a:visited {
+	color: #fec4ff;
+}
+
+a:hover {
+	color: #99ffef;
+}
+
+html, body {
+	height: 100%;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-width: 0;
+  border-top: 2px solid #fec4ff;
+}
+
+.nav {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-width: 0;
+  border-top: 4px solid #fec4ff;
+}
